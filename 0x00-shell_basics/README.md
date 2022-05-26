@@ -1,1 +1,1 @@
-These are commands in scripts and when update is needed, they would update later
+These are the commands in the scripts and what they do, they will be updated later
